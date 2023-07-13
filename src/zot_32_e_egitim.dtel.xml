@@ -3,21 +3,21 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <DD04V>
-    <ROLLNAME>ZOT_32_E_ULKE</ROLLNAME>
+    <ROLLNAME>ZOT_32_E_EGITIM</ROLLNAME>
     <DDLANGUAGE>T</DDLANGUAGE>
     <HEADLEN>55</HEADLEN>
     <SCRLEN1>10</SCRLEN1>
     <SCRLEN2>20</SCRLEN2>
     <SCRLEN3>40</SCRLEN3>
-    <DDTEXT>Ülke</DDTEXT>
-    <REPTEXT>Ülke</REPTEXT>
-    <SCRTEXT_S>Ülke</SCRTEXT_S>
-    <SCRTEXT_M>Ülke</SCRTEXT_M>
-    <SCRTEXT_L>Ülke</SCRTEXT_L>
+    <DDTEXT>Eğitim Türü</DDTEXT>
+    <REPTEXT>Eğitim Kodu</REPTEXT>
+    <SCRTEXT_S>Eğitim Kod</SCRTEXT_S>
+    <SCRTEXT_M>Eğitim Kodu</SCRTEXT_M>
+    <SCRTEXT_L>Eğitim Kodu</SCRTEXT_L>
     <DTELMASTER>T</DTELMASTER>
     <DATATYPE>CHAR</DATATYPE>
-    <LENG>000010</LENG>
-    <OUTPUTLEN>000010</OUTPUTLEN>
+    <LENG>000005</LENG>
+    <OUTPUTLEN>000005</OUTPUTLEN>
    </DD04V>
   </asx:values>
  </asx:abap>

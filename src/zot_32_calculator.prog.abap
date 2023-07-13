@@ -32,6 +32,7 @@ START-OF-SELECTION.
   P_SONUC = P_VAL1 * P_VAL2.
   ELSE.
   TRY.
+
         P_SONUC = P_VAL1 / P_VAL2.
       CATCH CX_SY_ZERODIVIDE.
         MESSAGE 'Hata Oluştu: Sifira Bolunmez' TYPE 'I'.
