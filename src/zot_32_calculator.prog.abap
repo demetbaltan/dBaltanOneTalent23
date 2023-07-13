@@ -34,7 +34,7 @@ START-OF-SELECTION.
   TRY.
         P_SONUC = P_VAL1 / P_VAL2.
       CATCH CX_SY_ZERODIVIDE.
-        MESSAGE 'Hata Oluştu: Lütfen Sifira Bolme' TYPE 'I'.
+        MESSAGE 'Hata Oluştu: Sifira Bolunmez' TYPE 'I'.
     ENDTRY.
   ENDIF.
 
